@@ -2,3 +2,4 @@
 .settings
 .classpath
 target
+**/.idea/workspace.xml **/.idea/tasks.xml
